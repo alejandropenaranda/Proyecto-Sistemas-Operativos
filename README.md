@@ -11,4 +11,6 @@ Este proyecto consiste en un simulador del ciclo básico de instrucción con fin
 
 Instrucciones de uso:
 
+Para ejecutar el simulador basta con darle run en el IDE de python o en el de su preferencia, si desea ejecutar otro de los procesos, es necesrio cambiar la ruta del archivo .txt que se encuentra en la linea 10 del codigo.
+
 video: https://www.youtube.com/watch?v=NuuTTw9iQwM&ab_channel=alejandroescobar
