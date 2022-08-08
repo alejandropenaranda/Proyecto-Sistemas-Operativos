@@ -11,4 +11,4 @@ Este proyecto consiste en un simulador del ciclo básico de instrucción con fin
 
 Instrucciones de uso:
 
-*poner el link del video*
+video: https://www.youtube.com/watch?v=NuuTTw9iQwM&ab_channel=alejandroescobar
