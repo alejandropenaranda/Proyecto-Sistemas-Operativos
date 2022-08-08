@@ -323,7 +323,7 @@ def OR (ins):
   else:
     registros['ACC'] = False
    
-# Procedimiento que inicia la ejecucion del simulator
+# Procedimiento que inicia la ejecucion del simulador
 def simulator (ins):
   for j in ins:
     ejecutar(j)
